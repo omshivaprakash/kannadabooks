@@ -1,221 +1,326 @@
-{
-  "books": [
+[
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
-    "authorUrl": ""
+    "title": "ಉಲ್ಲೇಖನೀಯ ಐನ್‍ಸ್ಟೀನ್",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "",
     "url": "https://archive.org/details/ullekhaniya",
-    "cover":"ullekhaniya",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
-    "tags": "[ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ]",
-    "title": "ಉಲ್ಲೇಖನೀಯ ಐನ್‍ಸ್ಟೀನ್"
+    "cover": "https://archive.org/services/img/ullekhaniya",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+    "identifier": "ullekhaniya"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಕುದುರೆಮುಖದೆಡೆಗೆ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "",
     "url": "https://archive.org/details/kuduremukhadhedege",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
-    "tags": "[ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ]",
-    "title": "ಕುದುರೆಮುಖದೆಡೆಗೆ"
+    "cover": "https://archive.org/services/img/kuduremukhadhedege",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+    "identifier": "kuduremukhadhedege"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಭವಿಷ್ಯ ವಿಜ್ಞಾನ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "",
     "url": "https://archive.org/details/bhavishyavijnana",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/bhavishyavijnana",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಭವಿಷ್ಯ ವಿಜ್ಞಾನ"
+    "identifier": "bhavishyavijnana"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಮಾನವ ಚಂದ್ರನ ಮೇಲೆ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "",
     "url": "https://archive.org/details/manava_camdrana",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/manava_camdrana",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಮಾನವ ಚಂದ್ರನ ಮೇಲೆ"
+    "identifier": "manava_camdrana"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಆಕಾಶದ ಅದ್ಭುತಗಳು",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "",
     "url": "https://archive.org/details/akashadaadbhutagalu",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/akashadaadbhutagalu",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಆಕಾಶದ ಅದ್ಭುತಗಳು"
+    "identifier": "akashadaadbhutagalu"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಮುಗಿಯದ ಪಯಣ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "",
     "url": "https://archive.org/details/mugiyadapayana",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/mugiyadapayana",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ಆತ್ಮಕಥೆ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಮುಗಿಯದ ಪಯಣ"
+    "identifier": "mugiyadapayana"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಕುವೆಂಪು ದರ್ಶನ ಸಂದರ್ಶನ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/kuvempu_darshana_sandarshana001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/kuvempu_darshana_sandarshana001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "Biography,ಜೀವನ ಚರಿತ್ರೆ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಕುವೆಂಪು ದರ್ಶನ ಸಂದರ್ಶನ"
+    "identifier": "kuvempu_darshana_sandarshana001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಕೊಡಗಿನ ಸುಮಗಳು",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "",
     "url": "https://archive.org/details/kodaginasumagalu",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/kodaginasumagalu",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಕೊಡಗಿನ ಸುಮಗಳು"
+    "identifier": "kodaginasumagalu"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಎನ್‍ಸಿಸಿ ದಿನಗಳು",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/n_c_c_dinagalu001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/n_c_c_dinagalu001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಎನ್‍ಸಿಸಿ ದಿನಗಳು"
+    "identifier": "n_c_c_dinagalu001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಕೃಷ್ಣವಿವರಗಳು",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Krishnavivaragalu002",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/Krishnavivaragalu002",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಕೃಷ್ಣವಿವರಗಳು"
+    "identifier": "Krishnavivaragalu002"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಸೂರ್ಯನ ಸಾಮ್ರಾಜ್ಯ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Suryana_saamraajya001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/Suryana_saamraajya001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಸೂರ್ಯನ ಸಾಮ್ರಾಜ್ಯ"
+    "identifier": "Suryana_saamraajya001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಆಲ್ಬರ್ಟ್ ಐನ್‌ಸ್ಟೈನ್‌ರ ಮಾನವೀಯ ಮುಖ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Albert_einsteinara_manaveeya_mukha001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/Albert_einsteinara_manaveeya_mukha001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಆಲ್ಬರ್ಟ್ ಐನ್‌ಸ್ಟೈನ್‌ರ ಮಾನವೀಯ ಮುಖ"
+    "identifier": "Albert_einsteinara_manaveeya_mukha001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಕೊಪರ್ನಿಕಸ್ ಕ್ರಾಂತಿ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Copernicus_kranti001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/Copernicus_kranti001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಕೊಪರ್ನಿಕಸ್ ಕ್ರಾಂತಿ"
+    "identifier": "Copernicus_kranti001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ನಕ್ಷತ್ರ ವೀಕ್ಷಣೆ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/unset0000unse_k1q8",
-    "level": "ಪ್ರಸಾದ್ ಏಜನ್ಸೀಸ್",
+    "cover": "https://archive.org/services/img/unset0000unse_k1q8",
+    "publisher": "ಪ್ರಸಾದ್ ಏಜನ್ಸೀಸ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ನಕ್ಷತ್ರ ವೀಕ್ಷಣೆ"
+    "identifier": "unset0000unse_k1q8"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಐನ್‌ಸ್ಟೀನ್ ಬಾಳಿದರಿಲ್ಲಿ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/einstein_balidarilli001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/einstein_balidarilli001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಐನ್‌ಸ್ಟೀನ್ ಬಾಳಿದರಿಲ್ಲಿ"
+    "identifier": "einstein_balidarilli001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಸಪ್ತಸಾಗರದಾಚೆಯೆಲ್ಲೋ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Saptasagaradacheyello_001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/Saptasagaradacheyello_001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಸಪ್ತಸಾಗರದಾಚೆಯೆಲ್ಲೋ"
+    "identifier": "Saptasagaradacheyello_001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಭವಿಷ್ಯವಾಚನ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Bhavishyavaachana001",
-    "level": "ದತ್ತಾತ್ರೇಯ ಪ್ರಕಾಶನ",
+    "cover": "https://archive.org/services/img/Bhavishyavaachana001",
+    "publisher": "ದತ್ತಾತ್ರೇಯ ಪ್ರಕಾಶನ",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಭವಿಷ್ಯವಾಚನ"
+    "identifier": "Bhavishyavaachana001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ನೋಡೋಣು ಬಾರಾ ನಕ್ಷತ್ರ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/nodonu_bara_nakshatra001",
-    "level": "ದತ್ತಾತ್ರೇಯ ಪ್ರಕಾಶನ",
+    "cover": "https://archive.org/services/img/nodonu_bara_nakshatra001",
+    "publisher": "ದತ್ತಾತ್ರೇಯ ಪ್ರಕಾಶನ",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ನೋಡೋಣು ಬಾರಾ ನಕ್ಷತ್ರ"
+    "identifier": "nodonu_bara_nakshatra001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ರಾಮಾನುಜಂ ಬಾಳಿದರಿಲ್ಲಿ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Ramanujan_Balidarilly001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/Ramanujan_Balidarilly001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ರಾಮಾನುಜಂ ಬಾಳಿದರಿಲ್ಲಿ"
+    "identifier": "Ramanujan_Balidarilly001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಸೂಪರ್ನೋವಾ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Supernova001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/Supernova001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಸೂಪರ್ನೋವಾ"
+    "identifier": "Supernova001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಫರ್ಮಾ ಯಕ್ಷಪ್ರಶ್ನೆ ಮತ್ತು ಇತರ ವಿಜ್ಞಾನ ಲೇಖನಗಳು",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/unset0000unse_z1w4",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/unset0000unse_z1w4",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "‍ಕನ್ನಡ ಸಾಹಿತ್ಯ,ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
-    "title": "ಫರ್ಮಾ ಯಕ್ಷಪ್ರಶ್ನೆ ಮತ್ತು ಇತರ ವಿಜ್ಞಾನ ಲೇಖನಗಳು"
+    "identifier": "unset0000unse_z1w4"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಜಾತಕ ಮತ್ತು ಭವಿಷ್ಯ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/jatakamattubhavishya",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/jatakamattubhavishya",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಜಾತಕ ಮತ್ತು ಭವಿಷ್ಯ"
+    "identifier": "jatakamattubhavishya"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ವಿಜ್ಞಾನ ಸಪ್ತರ್ಷಿಗಳು",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/vijnaana_saptarshigalu001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/vijnaana_saptarshigalu001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ವಿಜ್ಞಾನ ಸಪ್ತರ್ಷಿಗಳು"
+    "identifier": "vijnaana_saptarshigalu001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಅತ್ರಿಸೂನು ಉವಾಚ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/athrisunu_uvacha001",
-    "level": "ವೈದ್ಯವ್ರತ ಪ್ರಕಾಶನ",
+    "cover": "https://archive.org/services/img/athrisunu_uvacha001",
+    "publisher": "ವೈದ್ಯವ್ರತ ಪ್ರಕಾಶನ",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಅತ್ರಿಸೂನು ಉವಾಚ"
+    "identifier": "athrisunu_uvacha001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಬಾನ ಬಯಲಾಟ: ಗ್ರಹಣ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/baana_bayalaata_grahana001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/baana_bayalaata_grahana001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಬಾನ ಬಯಲಾಟ: ಗ್ರಹಣ"
+    "identifier": "baana_bayalaata_grahana001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "title": "ಸುಬ್ರಹ್ಮಣ್ಯನ್ ಚಂದ್ರಶೇಖರನ್",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
     "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/Subrahmanyan_Chandrasekhar001",
-    "level": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
+    "cover": "https://archive.org/services/img/Subrahmanyan_Chandrasekhar001",
+    "publisher": "ಅತ್ರಿ ಬುಕ್ ಸೆಂಟರ್",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಸುಬ್ರಹ್ಮಣ್ಯನ್ ಚಂದ್ರಶೇಖರನ್"
+    "identifier": "Subrahmanyan_Chandrasekhar001"
   },
   {
-    "author": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
-    "info": "",
+    "title": "ಪಂಚಾಂಗ ಎಷ್ಟು ನಿಜ",
+    "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
+    "level": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ",
+    "info": "The Indian Academy of Sciences This book was scanned by the Servants of Knowledge, a collection of volunteers dedicated to promoting the increase and diffusion of knowledge. The Servants of Knowledge gratefully acknowledges the contribution of the Indian Academy of Sciences to our efforts by providing space and logistical support in Bangalore. Jai Gyan!",
     "url": "https://archive.org/details/panchanga",
-    "level": "ಕರ್ನಾಟಕ ರಾಜ್ಯ ವಯಸ್ಕರ ಶಿಕ್ಷಣ ಸಮಿತಿ",
+    "cover": "https://archive.org/services/img/panchanga",
+    "publisher": "ಕರ್ನಾಟಕ ರಾಜ್ಯ ವಯಸ್ಕರ ಶಿಕ್ಷಣ ಸಮಿತಿ",
     "tags": "ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ,ಕನ್ನಡ ಸಾಹಿತ್ಯ",
-    "title": "ಪಂಚಾಂಗ ಎಷ್ಟು ನಿಜ"
+    "identifier": "panchanga"
   }
 ]
