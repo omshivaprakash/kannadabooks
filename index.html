@@ -164,10 +164,10 @@
         {{#books}}
          <div class="span4 booksection {{level}}">
           <a  target="_blank" href="{url}}">
-           <div class="view"> READ </div>
-           <div id="cover" style="background:black url('{{url}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;">
+           <div class="view"> ಓದಿರಿ </div>
+           <div title="{{ title }}" id="cover" style="b‍ackground:black url('{{cover}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;">
            </div>
-           <h2>{{title}}</h2>
+           <h2 title="{{ title }}">{{title}}</h2>
           </a>
           <h3><a href="{{authorUrl}}" target="_blank">{{author}}</a></h3>
           <p class="level">{{level}}</p>
