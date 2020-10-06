@@ -1,5 +1,5 @@
-[
-  {
+{
+  "books": [{
     "title": "ಉಲ್ಲೇಖನೀಯ ಐನ್‍ಸ್ಟೀನ್",
     "author": "ಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
     "authorUrl": "https://archive.org/search.php?query=creator%3Aಜಿ. ಟಿ. ನಾರಾಯಣರಾವ್",
@@ -324,3 +324,4 @@
     "identifier": "panchanga"
   }
 ]
+}
